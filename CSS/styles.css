@@ -1,0 +1,170 @@
+body{
+margin: 0;
+}
+h1 {
+  color: #66BFBF;
+  padding-top: 100px;
+  font-weight: bold;
+  font-family: 'Sacramento', cursive;
+  font-size: 500%;
+  margin-top: 0;
+}
+h2 {
+  font-family: 'Libre Baskerville', serif;
+  font-size: 200%;
+  font-weight: 700;
+  color: #66BFBF;
+  margin-bottom: 0;
+}
+p{
+  color: #171717;
+  font-weight: bolder;
+  font-size: 120%;
+}
+h3{
+  font-size: 125%;
+  color: #11999E;
+}
+hr{
+  width:8%;
+  border-color: #B2B1B9;
+  border-style: dotted none none none;
+  border-width: 13px;
+  margin-bottom: 7%;
+  margin-top: 7%;
+}
+/*             CLASSES TAGS         */
+.top-container {
+  background-color: #EAF6F6;
+  text-align: center;
+}
+.middle-container{
+  text-align: center;
+}
+
+.h3-foot{
+  margin-top: 3%;
+  margin-bottom: 3%;
+
+}
+.profile-photo{
+  margin-top: 5%;
+}
+.top-cloud{
+  position: absolute;
+top: 10%;
+  right: 20%;
+}
+.bottom-cloud{
+  position:absolute;
+  left: 20%;
+}
+.skill-row{
+  text-align: left;
+  width: 50%;
+  margin:7% auto;
+}
+.skill-row-photo-1{
+  float:left;
+  margin-right: 5%;
+}
+.skill-row-photo-2{
+  float:right;
+  margin-left: 5%;
+}
+.skill-row-2{
+  margin-top: 10%;
+}
+.skill-row-paragraph{
+  line-height: 150%;
+
+}
+.skill-row-header{
+    font-weight: 900;
+    font-size: 150%;
+}
+.pro {
+  text-decoration: underline;
+}
+.profile-text{
+display: inline-block;
+width: 33%;
+
+margin: 0;
+}
+.Hello-txt{
+  margin: 3% 0 3% 0;
+}
+.My-Skills-header{
+  margin-bottom: 7%;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  text-align: center;
+}
+.footer-link{
+margin-bottom: 0;
+    color: #11999E;
+}
+.footer-center-link{
+      color: #11999E;
+  margin-left: 3%;
+  margin-bottom: 0;
+
+  margin-right: 3%;
+}
+.footer-paragraph-1{
+  padding-top: 4%;
+  margin-bottom: 0;
+}
+.footer-paragraph-2{
+  color: #EAF6F6;
+  font-size: 100%;
+margin-bottom: 0;
+  padding-top: 1%;
+  padding-bottom: 3%;
+}
+.BUTTON_CXM {
+  margin-top: 3%;
+  margin-bottom: 5%;
+   background: #66BFBF;
+   background-image: -webkit-linear-gradient(top, #66BFBF, #1E62D0);
+   background-image: -moz-linear-gradient(top, #66BFBF, #1E62D0);
+   background-image: -ms-linear-gradient(top, #66BFBF, #1E62D0);
+   background-image: -o-linear-gradient(top, #66BFBF, #1E62D0);
+   background-image: -webkit-gradient(to bottom, #66BFBF, #1E62D0);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   height: 0;
+   line-height: 0;
+   color: #FFFFFF;
+   font-family: Arial;
+   width: 120px;
+   font-size: 17px;
+   font-weight: 100;
+   padding: 40px;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   box-shadow: 1px 1px 20px 0 #000000;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #337FED 0;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.BUTTON_CXM:hover {
+   border: solid #337FED 1px;
+   background: #1E62D0;
+   background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -moz-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -webkit-gradient(to bottom, #1E62D0, #3D94F6);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
